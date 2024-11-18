@@ -30,6 +30,7 @@ public void printallopt()
 }
 public void clickcheckbox()
 {
+    //testbranch
     clicks(jeansdetailpage,70);
 }
 
